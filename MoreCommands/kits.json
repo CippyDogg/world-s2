@@ -1,0 +1,50 @@
+{
+  "starter": {
+    "name": "Starter",
+    "cooldown": 3600,
+    "cooldowns": {
+      "915a6d94-99ae-471d-a06f-79c465c507ab": 1629217582904
+    },
+    "items": [
+      {
+        "item": "minecraft:iron_sword",
+        "count": 1,
+        "tag": "1f8b08000000000000ffe362606066607349cc4d4c4f65000100a8816e9711000000"
+      },
+      {
+        "item": "minecraft:iron_pickaxe",
+        "count": 1,
+        "tag": "1f8b08000000000000ffe362606066607349cc4d4c4f65000100a8816e9711000000"
+      },
+      {
+        "item": "minecraft:iron_axe",
+        "count": 1,
+        "tag": "1f8b08000000000000ffe362606066607349cc4d4c4f65000100a8816e9711000000"
+      },
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 16
+      },
+      {
+        "item": "minecraft:leather_helmet",
+        "count": 1,
+        "tag": "1f8b08000000000000ffe362606066607349cc4d4c4f65000100a8816e9711000000"
+      },
+      {
+        "item": "minecraft:iron_chestplate",
+        "count": 1,
+        "tag": "1f8b08000000000000ffe362606066607349cc4d4c4f65000100a8816e9711000000"
+      },
+      {
+        "item": "minecraft:iron_leggings",
+        "count": 1,
+        "tag": "1f8b08000000000000ffe362606066607349cc4d4c4f65000100a8816e9711000000"
+      },
+      {
+        "item": "minecraft:leather_boots",
+        "count": 1,
+        "tag": "1f8b08000000000000ffe362606066607349cc4d4c4f65000100a8816e9711000000"
+      }
+    ]
+  }
+}

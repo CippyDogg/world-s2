@@ -1,0 +1,35 @@
+{
+  "Trading": {
+    "isLimited": false,
+    "world": "minecraft:overworld",
+    "x": 144.5546993558703,
+    "y": 243.0,
+    "z": -247.45778628218582,
+    "counter": 77,
+    "pitch": -1.4365234,
+    "creationDate": 1629227989094,
+    "yaw": 5.158867
+  },
+  "Quarry": {
+    "isLimited": false,
+    "world": "minecraft:overworld",
+    "x": -221.5,
+    "y": 65.0,
+    "z": 34.5,
+    "counter": 9,
+    "pitch": -134.21657,
+    "creationDate": 1629565399869,
+    "yaw": 5.445984
+  },
+  "Spawn": {
+    "isLimited": false,
+    "world": "minecraft:overworld",
+    "x": 144.5,
+    "y": 73.0,
+    "z": -227.5,
+    "counter": 46,
+    "pitch": -3.4732478,
+    "creationDate": 1629216271897,
+    "yaw": 0.949646
+  }
+}
